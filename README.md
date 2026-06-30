@@ -140,15 +140,3 @@
 - `Watermelon.cpp`
 
 ---
-
-## 🔧 How This Repo Was Organised
-
-1. Every `.cpp` and `.txt` file was read and classified by primary algorithm/data structure.
-2. Files were renamed using **Pascal Case** descriptive names.
-3. `.txt` files were converted to `.cpp` — source code preserved exactly.
-4. Files were moved into DSA-topic folders.
-5. This README was auto-generated.
-
----
-
-*Organised with `organize.py` — a zero-dependency Python 3 script.*
